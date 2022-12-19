@@ -11,9 +11,10 @@ This analysis consists of four parts, where each step is building up from beginn
 
 
 ## 3. Input/Output
-The input is dataset of Kaggle, and Wikipedia Webscrape file
+The input is dataset of Kaggle, and Wikipedia Webscrape file for all movies released in the past that are recorded. The output is the end result.
 
-## 4. Live link: https://github.com/Tavishi18/LibraryManagementSystem.git
+## 4. Live link: https://github.com/Tavishi18/MovieAnalysis.git
 
 
 ## 5. Screenshot of the interface
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/83503708/208533438-0627b433-1ae1-4d99-9ec7-6c317469d41a.png">
