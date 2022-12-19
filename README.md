@@ -18,3 +18,5 @@ The input is dataset of Kaggle, and Wikipedia Webscrape file for all movies rele
 
 ## 5. Screenshot of the interface
 <img width="346" alt="image" src="https://user-images.githubusercontent.com/83503708/208533438-0627b433-1ae1-4d99-9ec7-6c317469d41a.png">
+<img width="919" alt="image" src="https://user-images.githubusercontent.com/83503708/208534533-6620556b-4e89-4cfa-bcc6-83fb350b94db.png">
+<img width="696" alt="image" src="https://user-images.githubusercontent.com/83503708/208534738-1c02f5ad-e01f-4d06-83c0-6b036f6b4205.png">
